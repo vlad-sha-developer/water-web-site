@@ -1,0 +1,29 @@
+header{
+  background-color: #23252A;
+  border-bottom: #6A6A6A solid 1px;
+  color: white;
+  .borderLogo{
+    padding: 0 15px;
+    border: solid 2px white;
+    margin-right: 60px;
+
+  }
+  .btn-custom{
+    font-size: 13px;
+    padding: 10px 15px;
+  }
+  .social:not(:first-child){
+    margin-left: 15px;
+  }
+  .nav-link{
+    color: white;
+
+  }
+  a:hover{
+    color: #FD0037!important;
+  }
+  .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgb(253,0,55)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+  }
+
+}

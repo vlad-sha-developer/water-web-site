@@ -1,0 +1,39 @@
+.createSite{
+  background-color: #23252A;
+  text-align: center;
+  padding: 90px 0;
+  color: white;
+  h1{
+    margin-bottom: 30px;
+  }
+  .text{
+    margin-bottom: 30px;
+  }
+  .rightNow{
+    font-size: 30px;
+    margin-bottom: 30px;
+    padding: 0;
+  }
+  .dataInputs{
+    padding: 20px 30px;
+    border-radius: 5px;
+    outline: none;
+  }
+  .btn-custom{
+    width: 100%;
+    padding: 20px 0;
+  }
+  .check{
+    width: 20px!important;
+    height: 20px!important;
+
+
+  }
+  .check:checked{
+    background-color: #FD0037;
+  }
+  label{
+    font-size: 15px;
+
+  }
+}
